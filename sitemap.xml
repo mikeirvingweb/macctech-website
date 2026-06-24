@@ -13,6 +13,10 @@ permalink: /sitemap.xml
     <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
   </url>
   <url>
+    <loc>https://www.macctech.co.uk/events/20260722</loc>
+    <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
+  </url>
+  <url>
     <loc>https://www.macctech.co.uk/events/20260520</loc>
     <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
   </url>
